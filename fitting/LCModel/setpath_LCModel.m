@@ -1,0 +1,3 @@
+
+addpath('varian');
+addpath('spectroscopy');
